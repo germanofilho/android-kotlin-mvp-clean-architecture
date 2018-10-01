@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">desafio-globosat</string>
+    <string name="usuario">Usuário</string>
+    <string name="senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="logout">Logout</string>
+    <string name="name">Nome</string>
+    <string name="sign_up_button">Cadastrar</string>
+    <string name="sign_up_text">Não possui cadastro?\nCrie sua conta agora!</string>
+    <string name="sign_up">Cadastre-se</string>
+    <string name="sign_up_label">Cadastro</string>
+    <string name="movies">Filmes</string>
+    <string name="my_list">Minha Lista</string>
+    <string name="account">Conta</string>
+    <string name="param_movie">param_movie</string>
+
+
+    <string name="hello_user">Olá %s</string>
+    <string name="duration_time">%d min</string>
+    <string name="saved">Salvo com sucesso!</string>
+    <string name="already_add">Este filme ja foi adicionado a sua lista!</string>
+    <string name="empty_list">Nenhum filme foi adicionado a sua lista.</string>
+    <string name="removed">Removido com sucesso!</string>
+    <string name="generic_error">Ocorreu um erro inesperado!</string>
+    <string name="original_name">Nome Original</string>
+    <string name="synopsis">Sinopse</string>
+    <string name="duration">Duração</string>
+    <string name="add_my_list">+ Adicionar aos Favoritos</string>
+    <string name="remove_my_list">- Remover dos Favoritos</string>
+    <string name="error_login">Usuário ou senha inválido</string>
+</resources>
